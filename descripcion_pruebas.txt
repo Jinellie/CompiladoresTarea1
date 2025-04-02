@@ -1,0 +1,22 @@
+Enlace a repositorio: https://github.com/Jinellie/CompiladoresTarea1.git 
+
+Descripción de los casos de prueba:
+
+Pila (Stack):
+- Pila vacía: Verificar que IsEmpty() devuelve true para una pila vacía.
+- Orden LIFO: Verificar que los elementos se agregan y eliminan en orden LIFO (último en entrar, primero en salir).
+- Peek: Verificar que Peek() devuelve el elemento superior sin eliminarlo.
+- Tamaño: Verificar que Size() devuelve el número correcto de elementos en la pila.
+
+Fila (Queue):
+- Fila vacía: Verificar que IsEmpty() devuelve true para una fila vacía.
+- Orden FIFO: Verificar que los elementos se agregan y eliminan en orden FIFO (primero en entrar, primero en salir).
+- PeekFront: Verificar que PeekFront() devuelve el elemento del frente sin eliminarlo.
+- Tamaño: Verificar que Size() devuelve el número correcto de elementos en la fila.
+
+Diccionario (Dictionary):
+- Diccionario vacío: Verificar que Size() devuelve 0 para un diccionario vacío.
+- Agregar y obtener elementos: Verificar que los elementos se agregan y obtienen correctamente.
+- Eliminar un elemento: Verificar que Delete() elimina el elemento correcto.
+- Tamaño: Verificar que Size() devuelve el número correcto de elementos en el diccionario.
+- Contiene llave: verificar que la funcion Contains() regresa el valor correcto.
